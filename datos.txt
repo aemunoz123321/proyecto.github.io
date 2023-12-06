@@ -1,0 +1,62 @@
+ [
+	{
+		"droguerias":"FARMATODO",
+		"mes":"ENERO",
+		"venta":60000
+	},
+	{
+		"droguerias":"FARMATODO",
+		"mes":"MARZO",
+		"venta":2000
+	},
+	{
+		"droguerias":"FARMATODO",
+		"mes":"AGOSTO",
+		"venta":55000
+	},
+	{
+		"droguerias":"FARMATODO",
+		"mes":"FEBRERO",
+		"venta":100000
+	},
+	{
+		"droguerias":"TREBOL VERDE",
+		"mes":"ENERO",
+		"venta":40000
+	},
+	{
+		"droguerias":"TREBOL VERDE",
+		"mes":"MARZO",
+		"venta":2999
+	},
+	{
+		"droguerias":"TREBOL VERDE",
+		"mes":"AGOSTO",
+		"venta":19000
+	},
+	{
+		"droguerias":"TREBOL VERDE",
+		"mes":"FEBRERO",
+		"venta":38000
+	},
+	{
+		"droguerias":"BOTICA ROJA",
+		"mes":"ENERO",
+		"venta":30000
+	},
+	{
+		"droguerias":"BOTICA ROJA",
+		"mes":"MARZO",
+		"venta":1888
+	},
+	{
+		"droguerias":"BOTICA ROJA",
+		"mes":"AGOSTO",
+		"venta":27777
+	},
+	{
+		"droguerias":"BOTICA ROJA",
+		"mes":"FEBRERO",
+		"venta":12200
+	}
+]
